@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+.topbox{
+  background-color: #e3fdfd;
+}
+.middlebox{
+  background-color: red;
+  height: 300px;
+  width: 300px;
+}
+
+.bottombox{
+  background-color: blue;
+  height: 300px;
+  width: 300px;
+}
+
+.cloud{
+  height: 200px;
+  width: 200px;
+  background:transparent;
+}
